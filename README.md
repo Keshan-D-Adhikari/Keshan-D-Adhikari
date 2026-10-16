@@ -115,8 +115,8 @@ Supported the council through graphic design and visual communication work for u
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** `adhikarikeshan@gmail.com`
-- 📞 **Phone:** `078-4698936`
+- 
+
 - 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/)
 - 🐙 **GitHub:** [GitHub](https://github.com/)
 
